@@ -1,0 +1,127 @@
+.about {
+    font-size: 14px;
+    color: #f7f7f9;
+    text-align: justify;
+}
+
+.footer-links a {
+    color: white;
+}
+
+.footer-distributed .footer-center {
+    width: 35%;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer-center i {
+    background-color: #C1A667;
+    color: #ffffff;
+    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 32px;
+    margin: 10px 15px;
+    vertical-align: middle;
+}
+
+#footer .social li .icon {
+    background: transparent;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 40px;
+    border: 1px solid #C1A667;
+    color: #C1A667;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.footer-center p,
+span,
+a {
+    color: white;
+    font-size: 15px;
+}
+
+.card-img-top {
+    border-radius: 50%;
+    max-width: 193px;
+    margin-left: auto; 
+    
+}
+
+.card a {
+    text-transform: uppercase;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #0c0901;
+    margin-bottom: 20px;
+}
+
+.card span {
+    display: block;
+    text-transform: none;
+    font-weight: 400;
+    color: #484745;
+    font-size: 15px;
+}
+
+
+/* Whatsapp */
+
+.whatsapp {
+    z-index: 99999;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.whatsapp h5 {
+    color: white;
+    background: #20b20f;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+
+section.works h3 {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-weight: 300;
+    font-size: 2em;
+    color: #bfa760;
+    text-transform: uppercase;
+}
+
+section.works h4 {
+    text-transform: uppercase;
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFF;
+    margin-bottom: 10px;
+}
+
+.work-card {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #582C4F;
+}
+
+.work-card p {
+    color: #FFF;
+}
